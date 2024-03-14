@@ -6,7 +6,7 @@ A library and CLI tool for taking CSV files producing new CSV files where all
 numerical columns have been discretized.
 
 ## Disclaimer
-This is going pre-alpha software. We are currently testing it in real-world scenarios. In its present state, we discourage users from trying it.
+This is pre-alpha software. We are currently testing it in real-world scenarios. In its present state, we discourage users from trying it.
 
 ## Installation
 
