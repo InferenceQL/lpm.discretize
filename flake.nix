@@ -36,6 +36,7 @@
           buildInputs = [
           discretization
           pkgs.python310Packages.pytest # Adding pytest here so that developers can run the tests.
+          pkgs.nodejs_20 # To run commitlint
           ];
         };
         packages.default = discretization;
